@@ -3,5 +3,5 @@
 
 | nome | especialidade | rede social | calendly
 | -- | -- | -- |-- |
-| William Oliveira | front-end | https://twitter.com/_uillaz | --
-| Yara Oliveira | full-stack| https://twitter.com/yaguioli |https://calendly.com/contatoyaoliveira/30min
+| William Oliveira | front-end | [Twitter](https://twitter.com/_uillaz) | --
+| Yara Oliveira | full-stack| [Twitter](https://twitter.com/yaguioli) | [30min](https://calendly.com/contatoyaoliveira/30min)
